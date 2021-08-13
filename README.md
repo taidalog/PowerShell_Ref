@@ -10,3 +10,5 @@ PowerShell scripts to study how to use [ref] to call .NET method
 1. Markdown に |:-:| を追加する
 1. scriptblock と method でも3以降を行う  
     method は .\02_check_and_replace\check_method.ps1 を使う
+
+result フォルダは途中から使うのをやめた。
